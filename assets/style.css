@@ -1,6 +1,12 @@
-#train-table {
+.card-header, .btn {
+    background-color: rgb(165, 62, 62); 
+    color: rgb(190, 183, 183);
+}
+body {
+    background-color: #9ea1a1;
+}
+.card-body {
+    background-color: beige;
+}
 
-    display: inline-block;
-    width: 16.575%;
-} 
            
