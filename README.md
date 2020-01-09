@@ -12,4 +12,5 @@ git clone https://github.com/tcary/TrainTime.git
 once inside the Train-Scheduler folder, open the index.html in your preferred web browser.
 
 Authors
+
 Tetiana Cary
